@@ -1,5 +1,6 @@
 
-## Delphi Consultation Process
+# Delphi Consultation Process
+
 
 <center>![](images/delphi.png)</center>
 
@@ -14,8 +15,8 @@ Most group processes will usually give an answer that is of a higher quality tha
 The following is a summary of how the process works:
 
 1. The experts individually give an initial answer.
-- The answers are analysed and feedback is given to the experts.
-- The experts then give their revised answers.
+2. The answers are analysed and feedback is given to the experts.
+3. The experts then give their revised answers.
 
 Steps 2 and 3 are repeated for two more rounds unless agreement has already been reached.The following example will give you an idea of how the process works in practice and can also be used as an exercise for teaching the Delphi consultation process.
 
