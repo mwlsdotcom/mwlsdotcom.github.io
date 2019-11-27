@@ -1,7 +1,4 @@
-# Learning Pages
-
-Resources for Learners, Trainers and Educators
-
+# Contents
 ---
 
 [Finance](https://mwlsdotcom.github.io/finance/flattr-microdonations/index.md)
