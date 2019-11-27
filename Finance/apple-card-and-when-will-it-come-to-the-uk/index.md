@@ -16,9 +16,9 @@ Except for interest charges, Apple says its card has no fees (e.g. late, cash-ad
 
 The card has three levels of cash-back:
 
-- 1% for purchases made with the physical card,
-- 2% for purchases made with Apple Pay and 
-- 3% for purchases from Apple.
+1. 1% for purchases made with the physical card,
+2. 2% for purchases made with Apple Pay and 
+3. 3% for purchases from Apple.
 
 Cash-back is available daily, rather than at the end of each statement period. The rewards are deposited into the user's Apple Cash account inside Apple Wallet, which can then be used to send money via iMessage, pay part or all of the card's balance, spend at retailers and 'in apps' that accept Apple Pay or be transferred to a bank account. If customers don't have an Apple Cash account, then Daily Cash continues to accumulate, but can only be applied as a credit towards their statement balance.
 
