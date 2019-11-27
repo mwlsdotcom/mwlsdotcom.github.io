@@ -1,4 +1,4 @@
 # Contents
 ---
 
-[Finance](https://mwlsdotcom.github.io/finance/flattr-microdonations/index.md)
+[Finance](https://mwlsdotcom.github.io/finance/)
