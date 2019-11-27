@@ -1,5 +1,4 @@
 # Apple Card and when will it come to the UK?
-
 [Home](https://mwlsdotcom.github.io/)
 
 ![](images/apple-card.jpg "Apple Card")
