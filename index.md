@@ -1,3 +1,5 @@
-# The Learning Hubs
+# Learning Pages
 
-The hub for learners, trainers and educators.
+Resources for Learners, Trainers and Educators
+
+
