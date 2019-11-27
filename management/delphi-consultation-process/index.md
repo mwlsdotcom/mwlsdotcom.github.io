@@ -37,17 +37,16 @@ The experts return their estimates to you...
 
 ...and then you collate and rank the results:
 
-<table cellspacing=0 cellpadding=3 border>
-<tr align=center><th>Estimate</th><th>Value<th>Expert
-<tr align=center><td>1<td>1000<td>2
-<tr align=center><td>2<td>1500<td>7
-<tr align=center><td>3<td>2000<td>5
-<tr align=center><td>4<td>2500<td>3
-<tr align=center><td>5<td>2500<td>4
-<tr align=center><td>6<td>2500<td>6
-<tr align=center><td>7<td>3000<td>1
-<tr align=center><td>8<td>5000<td>8
-</table>
+|Estimate|Value|Expert|
+|:------:|:---:|:----:|
+|1       |1000 |2     |
+|2       |1500 |7     |
+|3       |2000 |5     |
+|4       |2500 |3     |
+|5       |2500 |4     |
+|6       |2500 |6     |
+|7       |3000 |1     |
+|8       |5000 |8     |
 
 You then identify the middle, or median, value which divides the range of estimates in half. If there were an odd number of values, the middle value would be the median. But in this case there is an even number, so you have to use the average of the middle two values (estimates 4 and 5)
 
