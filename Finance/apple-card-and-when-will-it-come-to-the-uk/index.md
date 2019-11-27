@@ -35,7 +35,7 @@ The physical card is made from titanium and is designed for shopping at location
 If the Apple Card comes into contact with contaminants that can cause stains, it can be cleaned by:
 
 1. Gently wiping it with a soft, slightly damp, lint-free microfibre cloth;
-- Moistening a soft, microfibre cloth with isopropyl alcohol and gently wiping the card.
+2. Moistening a soft, microfibre cloth with isopropyl alcohol and gently wiping the card.
 
 Don't use window or household cleaners, compressed air, aerosol sprays, solvents, ammonia, or abrasives to clean your titanium Apple Card.
 
