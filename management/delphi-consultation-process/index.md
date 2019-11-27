@@ -6,7 +6,7 @@
 
 In antiquity, Delphi, a village in central Greece, was the principal sanctuary and oracle of the god Apollo. The oracle's advice about religion, morality, commerce, and colonial projects, spoken by a priestess in a trance, was widely sought by individuals and the Greek states.
 
-Today, we no longer seek the answers to momentous questions from priestesses. Instead, we turn to consultants or experts. But we don't seem to have the same level of confidence in our experts as the ancient Greeks had in their oracles because we often call in another expert and &#151; not surprisingly &#151; we get another answer. We then consult ten experts and get &#151; twelve answers! We need a method for helping experts (and others) home-in on a high quality, agreed conclusion.
+Today, we no longer seek the answers to momentous questions from priestesses. Instead, we turn to consultants or experts. But we don't seem to have the same level of confidence in our experts as the ancient Greeks had in their oracles because we often call in another expert and - not surprisingly - we get another answer. We then consult ten experts and get- twelve answers! We need a method for helping experts (and others) home-in on a high quality, agreed conclusion.
 
 The traditional response to this is to lock the experts in a room and refuse to let them out until they come up with 'the' answer. In reality, it is difficult to get all the experts together at the same time, time is usually limited because of other commitments, there is limited reflection, and the stronger members of the group will often ignore the opinions of the less forthright members.
 
