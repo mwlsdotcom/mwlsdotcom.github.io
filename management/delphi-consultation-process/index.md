@@ -25,7 +25,7 @@ Fill a large glass or transparent plastic jar with beans (having counted them fi
 The experts return their estimates to you...
 
 |Expert|Estimate|
-|:----:|-------:|
+|:----:|:------:|
 |1     |3000    |
 |2     |1000    |
 |3     |2500    |
