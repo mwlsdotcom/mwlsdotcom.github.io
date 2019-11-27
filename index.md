@@ -1,4 +1,4 @@
 # Contents
 ---
 
-[Finance](https://mwlsdotcom.github.io/finance/)
+[**Finance**](https://mwlsdotcom.github.io/finance/)
