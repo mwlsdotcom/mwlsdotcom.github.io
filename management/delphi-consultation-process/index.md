@@ -24,17 +24,16 @@ Fill a large glass or transparent plastic jar with beans (having counted them fi
 
 The experts return their estimates to you...
 
-<table cellspacing=0 cellpadding=3 border>
-<tr align=center><th>Expert<th>Estimate
-<tr align=center><td>1<td>3000
-<tr align=center><td>2<td>1000
-<tr align=center><td>3<td>2500
-<tr align=center><td>4<td>2500
-<tr align=center><td>5<td>2000
-<tr align=center><td>6<td>2500
-<tr align=center><td>7<td>1500
-<tr align=center><td>8<td>5000
-</table>
+|Expert|Estimate|
+|:-----|:-------|
+|1     |3000    |
+|2     |1000    |
+|3     |2500    |
+|4     |2500    |
+|5     |2000    |
+|6     |2500    |
+|7     |1500    |
+|8     |5000    |
 
 ...and then you collate and rank the results:
 
