@@ -56,12 +56,10 @@ You also identify the interquartile range (IQR) which contains the middle 50 per
 
 This information is then fed back to the experts in the following format:
 
-<table cellspacing=0 cellpadding=3 border>
-<tr align=center><th>Median<th>Interquartile Range<th>Your First Answer<th>Your New Answer
-<tr align=center><td>2500<td>2000-2500<td><td>
-<tr><td colspan=4>
-
-<p>If your new answer lies outside the IQR please give your reason:</p><br/><br/>
+|Median|Interquartile Range|Your First Answer|Your New Answer|
+|:-----|:-----------------:|:---------------:|:-------------:|
+|2500  |2000-2500          |                 |               |
+|If your new answer lies outside the IQR please give your reason:|
 
 <p>If you have a particular insight or expertise in this subject please give details:</p><br/><br/><br/>
 </table>
