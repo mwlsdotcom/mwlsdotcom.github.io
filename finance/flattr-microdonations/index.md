@@ -88,4 +88,3 @@ The minimum you can contribute is $3 every 30 days ($36.50 a year for non-leap y
 As you have probably gathered, I am using Flattr both as a creator and a contributor. If you are already a contributor or are intending to join Flattr, I would really appreciate it if you were to [flattr](https://flattr.com/@mwls.com) my website [mwls.com](https://mwls.com) so that I can maintain my website, provide more free resources and remove advertising.
 
 As well as providing resources for learners, trainers and educators, the site's blog is a learning adventure that shares what I am learning in many different fields. This article being one example.
-[flattr](https://flattr.com/@mwls.com)
