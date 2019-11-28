@@ -1,4 +1,5 @@
 # How to Ensure You Receive Important Emails
+[Home](https://mwlsdotcom.github.io/) | [Communication](https://mwlsdotcom.github.io/communication)
 
 Increasingly, filtering systems are trying and keep spam out of your inbox. Sometimes, they accidentally filter out the e-mails you want to receive. To make sure that important emails are not filtered into your 'junk' folder, you need to either provide your trusted sources with an unfiltered email address or have their addresses 'whitelisted'.
 
