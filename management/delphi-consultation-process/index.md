@@ -95,5 +95,5 @@ The results and arguments are collated again and are presented to the experts fo
 **Arguments defending a lower estimate**
 - The people who do not agree that the jar is smaller than it looks have not taken into account that the base is very thick.
 
-Having considered the counter arguments, the respondents make their last forecast and return it for the final collation, which in this case might give a median of 2250 and an IQR of 2200&#150;2400. This is then said to be the consensus for the Delphi consultation process.
+Having considered the counter arguments, the respondents make their last forecast and return it for the final collation, which in this case might give a median of 2250 and an IQR of 2200-2400. This is then said to be the consensus for the Delphi consultation process.
 
