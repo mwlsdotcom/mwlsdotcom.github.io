@@ -70,8 +70,8 @@ The collated responses to this form are then given to everybody as shown below:
 |2300  |2100-2400          |                    |               |  
 
 **Arguments in favour of a higher estimate**
-- The beans are very small.<br/>
-- The jar is larger than it looks.</p>
+- The beans are very small.
+- The jar is larger than it looks.
 
 **Arguments in favour of a lower estimate**
 - The beans are not packed very tightly.
