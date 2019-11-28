@@ -73,31 +73,26 @@ The collated responses to this form are then given to everybody as shown below:
 - The beans are very small.<br/>
 - The jar is larger than it looks.</p>
 
-<p><b>Arguments in favour of a lower estimate</b><br/>
-- The beans are not packed very tightly.<br/>
-- The jar is smaller than it looks.</p>
+**Arguments in favour of a lower estimate**
+- The beans are not packed very tightly.
+- The jar is smaller than it looks.
 
-<p><b>Particular insights and expertise</b><br/>
-- The expert who has done this exercise before, estimates there are 2300 beans.<br/>
-- A bean has a volume of 2 cubic centimetres.</p>
+**Particular insights and expertise**
+- The expert who has done this exercise before, estimates there are 2300 beans.
+- A bean has a volume of 2 cubic centimetres.
 
-<p><b>If you disagree strongly with any of these arguments please comment here:</p><br/><br/><br/><br/>
-</table>
+**Please comment if you disagree strongly with any of these arguments.
 
 The results and arguments are collated again and are presented to the experts for their final answer:
 
-<table cellspacing=0 cellpadding=3 border>
-<tr><th>Median<th>Interquartile Range<th>Your Last Answer
-<tr align=center><td>2300<td>2200-2400<td>
-<tr><td colspan=3>
+|Median|Interquartile Range|Your Last Answer|
+|2300  |2200-2400          |                |  
 
-<p><b>Arguments defending a higher estimate</b><br/>
-- An estimate of 2 cubic centimetres for a bean's volume takes packing 'tightness' into account.</p>
+**Arguments defending a higher estimate**
+- An estimate of 2 cubic centimetres for a bean's volume takes packing 'tightness' into account.
 
-<p><b>Arguments defending a lower estimate</b><br/>
+**Arguments defending a lower estimate**
 - The people who do not agree that the jar is smaller than it looks have not taken into account that the base is very thick.
-
-</table>
 
 Having considered the counter arguments, the respondents make their last forecast and return it for the final collation, which in this case might give a median of 2250 and an IQR of 2200&#150;2400. This is then said to be the consensus for the Delphi consultation process.
 
