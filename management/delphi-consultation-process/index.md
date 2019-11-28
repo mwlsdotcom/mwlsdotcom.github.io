@@ -1,6 +1,6 @@
 
 # Delphi Consultation Process
-[Home](https://mwlsdotcom.github.io/)
+[Home](https://mwlsdotcom.github.io/) [Management](https://mwlsdotcom.github.io/management)
 
 ![](images/delphi.png)
 
