@@ -2,7 +2,7 @@
 # Delphi Consultation Process
 [Home](https://mwlsdotcom.github.io/) | [Management](https://mwlsdotcom.github.io/management)
 
-![](images/delphi.png)
+![](images/delphi.png#center)
 
 In antiquity, Delphi, a village in central Greece, was the principal sanctuary and oracle of the god Apollo. The oracle's advice about religion, morality, commerce, and colonial projects, spoken by a priestess in a trance, was widely sought by individuals and the Greek states.
 
