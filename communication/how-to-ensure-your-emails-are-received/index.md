@@ -1,4 +1,5 @@
 # How to Ensure your Important Emails are Received
+[Home](https://mwlsdotcom.github.io/) | [Communication](https://mwlsdotcom.github.io/communication)
 
 Increasingly, filtering systems are trying to keep spam out of customers' inboxes. Unfortunately, the filters are often very coarse and sometimes they accidentally filter the email that your customers want to receive.
 
