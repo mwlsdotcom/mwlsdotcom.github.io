@@ -59,9 +59,9 @@ This information is then fed back to the experts in the following format:
 |Median|Interquartile Range|Your First Answer|Your New Answer|
 |:----:|:-----------------:|:---------------:|:-------------:|
 |2500  |2000-2500          |                 |               |  
-  
-- **If your new answer lies outside the IQR please give your reason.**
-- **If you have a particular insight or expertise in this subject please give details.**
+ 
+* **If your new answer lies outside the IQR please give your reason.**
+* **If you have a particular insight or expertise in this subject please give details.**
 
 The collated responses to this form are then given to everybody as shown below:
 
