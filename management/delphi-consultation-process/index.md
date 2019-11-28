@@ -86,6 +86,7 @@ The collated responses to this form are then given to everybody as shown below:
 The results and arguments are collated again and are presented to the experts for their final answer:
 
 |Median|Interquartile Range|Your Last Answer|
+|:----:|:-----------------:|:--------------:|
 |2300  |2200-2400          |                |  
 
 **Arguments defending a higher estimate**
