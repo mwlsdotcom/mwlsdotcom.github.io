@@ -1,7 +1,7 @@
 <link rel="StyleSheet" href="css/pdf.css" type="text/css">
 
 # Flattr Microdonations
-[Home](https://mwlsdotcom.github.io/)
+[Home](https://mwlsdotcom.github.io/) | [Finance](https://mwlsdotcom.github.io/finance)
 
 This post describes my experience of using Flattr to make and receive microdonations and what I have learnt about using it.
 
