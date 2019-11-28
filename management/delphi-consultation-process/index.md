@@ -65,12 +65,11 @@ This information is then fed back to the experts in the following format:
 
 The collated responses to this form are then given to everybody as shown below:
 
-<table cellspacing=0 cellpadding=3 border>
-<tr align=center><th>Median<th>Interquartile Range<th>Your Previous Answer<th>Your New Answer
-<tr align=center><td>2300<td>2100-2400<td><td>
+|Median|Interquartile Range|Your Previous Answer|Your New Answer|
+|:----:|:-----------------:|:------------------:|:-------------:|
+|2300  |2100-2400          |                    |               |  
 
-<tr><td colspan=4>
-<p><b>Arguments in favour of a higher estimate</b><br/>
+**Arguments in favour of a higher estimate**
 - The beans are very small.<br/>
 - The jar is larger than it looks.</p>
 
