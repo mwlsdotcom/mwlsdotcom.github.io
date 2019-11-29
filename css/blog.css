@@ -1,0 +1,142 @@
+body {
+    background-color: #d9effa;
+    color: black; /* #222 Foreground color used for text */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13pt;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container for flexboxes */
+section {
+    display: -webkit-flex;
+    display: flex;
+}
+
+a {text-decoration: none}
+a:link {color: blue}
+a:visited {color: blue}
+a:hover {color: green}
+
+header {
+    -webkit-flex: 2;
+    -ms-flex: 2;
+    flex: 2;
+    background-color: blue;
+    padding: 20px;
+    text-align: left;
+    font-family: <?= $bodyFont ?>;
+    font-size: 16pt;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 20px;
+}
+
+h1 {
+	font-size: 18pt;
+	font-weight: bold;
+    color: #505050;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+h2 {
+	font-size: 14pt;
+	font-weight: bold;
+    color: navy;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+h3 {
+	font-size: 13pt;
+	font-weight: bold;
+    color: #505050;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+h4 {
+	font-size: 12pt;
+	font-weight: bold;
+    color: #505050;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+i {
+	font-weight: normal;
+}
+
+hr {
+	margin-bottom: 15px;
+}
+
+.slogan {
+	font-size: 13pt;
+}
+
+.cookiePanel {
+	webkit-flex: 2;
+    -ms-flex: 2;
+    flex: 2;
+	margin-top: 10px;
+    padding: 20px;
+    background-color: #d9effa;
+    text-align: center;
+}
+
+.cookies {
+	margin-top: 0px;
+	font-size: 12pt;
+    color: black;
+    background: #d9effa;
+    padding: 0px;
+    text-align: center;
+}
+
+nav {
+	font-size: 12pt;
+    font-weight: normal;
+    color: blue;
+    background: #d9effa;
+    padding: 10px;
+}
+
+.blogHeader {
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    padding: 0px;
+    color: navy;
+    background-color: white;
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+article {
+	-webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    padding: 10px;
+    margin-right: 5px;
+    margin-left: 0px;
+    margin-bottom: 10px;
+    color: #505050;
+    background-color: white;
+    font-size: 13pt;
+}
+
+.adcol {
+	font-size: 12pt;
+    background: #d9effa;
+    padding: 5px;
+    text-align: center;
+}
+
+.adbar {
+	font-size: 12pt;
+    background: #ffffff;
+    padding: 0px;
+    text-align: left;
+}
