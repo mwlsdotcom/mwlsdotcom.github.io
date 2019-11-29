@@ -25,8 +25,8 @@ header {
     background-color: blue;
     padding: 20px;
     text-align: center;
-    font-family: <?= $bodyFont ?>;
-    font-size: 16pt;
+    font-family: Verdana, sans-serif;
+    font-size: 18pt;
     font-weight: bold;
     color: white;
     margin-bottom: 20px;
