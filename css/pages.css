@@ -97,7 +97,7 @@ hr {
 }
 
 nav {
-font-size: 12pt;
+	font-size: 12pt;
     font-weight: normal;
     color: blue;
     background: #d9effa;
@@ -119,6 +119,7 @@ article {
 	-webkit-flex: 1;
     -ms-flex: 1;
     flex: 1;
+	width: 25%;
     padding: 10px;
     margin-right: 5px;
     margin-left: 0px;
