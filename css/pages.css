@@ -8,8 +8,8 @@ body {
 }
 
 a {text-decoration: none}
-a:link {color: blue}
-a:visited {color: blue}
+a:link {color: #5C94FC}
+a:visited {color: #5C94FC}
 a:hover {color: green}
 
 header {
