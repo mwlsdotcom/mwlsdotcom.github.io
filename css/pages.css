@@ -109,7 +109,7 @@ nav {
 	font-size: 12pt;
     	font-weight: normal;
     	color: blue;
-    	background: #d9effa;
+    	background-color: yellow; //#d9effa;
     	padding: 10px;
 	width: 25%;
 }
@@ -145,6 +145,7 @@ article {
 	padding: 5px;
     	text-align: center;
 	float: left;
+	background-color: yellow;
 }
 
 .adbar {
