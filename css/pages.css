@@ -138,9 +138,10 @@ article {
 
 .adcol {
 	font-size: 12pt;
-    background: #d9effa;
-    padding: 5px;
-    text-align: center;
+    	background: #d9effa;
+	width: 200px;
+	padding: 5px;
+    	text-align: center;
 }
 
 .adbar {
