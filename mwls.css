@@ -1,0 +1,16 @@
+body {font-family:Verdana,sans-serif; font-size:13; background:white}
+h1 {font-family: "Times New Roman", Times, serif; font-size: 24pt}
+h2 {font-family:Verdana,sans-serif; font-size: 18pt; color: blue}
+h3 {font-family:Verdana,sans-serif; font-size: 14pt; color: navy}
+h4 {font-family:Verdana,sans-serif; font-size:13pt; margin-bottom:0pt;}
+p {font-family:Verdana,sans-serif; font-size: 13pt}
+table {font-family:Verdana,sans-serif; font-size: 13pt}
+ul {font-family:Verdana, sans-serif; font-size: 13pt}
+ol {font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 13pt}
+a {text-decoration: none}
+a:link {color: blue}
+a:visited {color: blue}
+a:hover {color: green}
+
+.notes {font-family:Verdana,sans-serif; color: navy; font-size: 11pt;}
+.blogHeader {padding:0px; color:navy; font-size:14pt; font-weight:bold}
