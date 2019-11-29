@@ -96,6 +96,19 @@ hr {
     text-align: center;
 }
 
+.column {
+  float: left;
+  width: 253%;
+  padding: 15px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 nav {
 	font-size: 12pt;
     font-weight: normal;
