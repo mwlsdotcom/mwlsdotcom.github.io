@@ -24,7 +24,7 @@ header {
     flex: 2;
     background-color: blue;
     padding: 20px;
-    text-align: left;
+    text-align: center;
     font-family: <?= $bodyFont ?>;
     font-size: 16pt;
     font-weight: bold;
