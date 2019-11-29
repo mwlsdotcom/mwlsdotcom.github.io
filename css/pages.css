@@ -77,6 +77,18 @@ hr {
 	font-size: 13pt;
 }
 
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 .cookiePanel {
 	webkit-flex: 2;
     -ms-flex: 2;
