@@ -96,9 +96,15 @@ hr {
     text-align: center;
 }
 
-.column {
+.leftColumn {
   float: left;
-  width: 253%;
+  width: 25%;
+  padding: 15px;
+}
+
+.contentColumn {
+  float: left;
+  width: 25%;
   padding: 15px;
 }
 
