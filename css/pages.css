@@ -77,30 +77,6 @@ hr {
 	font-size: 13pt;
 }
 
-.leftColumn {
-  float: left;
-  width: 25%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-.contentColumn {
-  float: left;
-  width: 50%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
 .cookiePanel {
 	webkit-flex: 2;
     -ms-flex: 2;
@@ -121,7 +97,7 @@ hr {
 }
 
 nav {
-	font-size: 12pt;
+font-size: 12pt;
     font-weight: normal;
     color: blue;
     background: #d9effa;
