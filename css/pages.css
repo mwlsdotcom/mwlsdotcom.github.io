@@ -64,7 +64,7 @@ i {
 }
 
 hr {
-	margin-bottom: 5px;
+	margin-bottom: 15px;
 }
 
 table {
@@ -127,6 +127,9 @@ article {
 
 @media screen and (max-width:750px) {
   article {
+    width: 90%;
+  }
+  img {
     width: 90%;
   }
 }
