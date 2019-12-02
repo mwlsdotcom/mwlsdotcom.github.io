@@ -1,1 +1,1 @@
-document.write('Learn')
+document.write('LearningPages.eu')
