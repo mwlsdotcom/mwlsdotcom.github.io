@@ -1,4 +1,4 @@
-# About Learning Pages
+## About Learning Pages
 
 The Learning Pages project is an advert-free site (created by Mike Wills Learning Services) which provides free learning resources for learners, trainers and educators. It has been motivated by the desire that learning should not be lost.
 
