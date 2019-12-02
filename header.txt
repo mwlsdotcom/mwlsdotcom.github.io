@@ -1,1 +1,1 @@
-Learning
+document.write('Learning')
