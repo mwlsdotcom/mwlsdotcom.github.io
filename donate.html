@@ -1,0 +1,129 @@
+<!doctype html>
+
+<html>
+
+<head>
+<meta charset=UTF-8>
+<meta name=description content='Donate to maintain this no-advert, free resources website'>
+<meta name=keywords content='donate,microdonations,flattr,subscriptions,free learning resources'>
+<meta name=author content='Mike Wills'/>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<meta name='flattr:id' content='12pyl2'>
+<link rel='StyleSheet' href='https://mwlsdotcom.github.io/css/pages.css' type='text/css'>
+<title>Donate</title>
+</head>
+
+<body>
+
+<header>
+<script language='javascript' type='text/javascript' src='https://mwlsdotcom.github.io/header.txt'></script>
+</header>
+
+<article>
+
+<h2>Donate</h2>
+
+<hr />
+<p><a href="https://mwlsdotcom.github.io">Home</a></p>
+
+<p>There are three ways in which you can make a donation to support this project:</p>
+
+<ul>
+<li>One-time donation</li>
+<li>Microdations</li>
+<li>Subscriptions</li>
+</ul>
+<h3>One-time donation</h3>
+
+<form name="frmDonate" action="https://mwls.com/payments/payments.php" method="get">
+<input type="hidden" name="email" value=""/>
+<input type="hidden" name="desc" value="MWLS Donation"/>
+&#163;<input type="text" name="amnt" size="5" value="1" style="font-size:12pt"/>
+<input type="hidden" name="shop" value="lp"/>
+<input type="hidden" name="mob" value="false"/>
+<input type="hidden" name="sku" value="ER000"/>
+<input type="hidden" name="ord" value=""/>
+<input type="submit" style="font-family:Verdana; font-size:12px; font-color:214A70; font-weight:bold; font-style:italic; -webkit-border-radius:8px;
+    -moz-border-radius:8px; margin-top:20px; margin-bottom:5px; padding:5px; background: linear-gradient(#FFF6E5, #FFB542); border:1px solid black" value=" Donate "/>
+</form>
+
+<h3>Microdonations</h3>
+
+<p>If you would like to support this project with microdonations, please go to <a href="https://flattr.com/@LearningPages">flattr.com/@LearningPages</a> and sign up for a contributor account. Before doing so, you might like to read my article on <a href="https://mwlsdotcom.github.io/finance/flattr-microdonations/">Flattr Microdonations</a></p>
+
+<h3>Subscriptions</h3>
+
+<p>You can also donate using monthly subscriptions. There are three tiers:</p>
+
+<h4>Level 1</h4>
+
+<p>£1 per month</p>
+
+<ul>
+<li>Early access to new content</li>
+<li>Donor-only newsletter</li>
+</ul>
+
+<script src="https://js.stripe.com/v3"></script>
+
+<button
+  style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
+  id="checkout-button-plan_GFcJk1TCwkKaqF"
+  role="link"</p>
+
+  Subscribe
+</button>
+
+<div id="error-message"></div>
+
+<script>
+(function() {
+  var stripe = Stripe('pk_live_7xDlWRQDQO94C6jbwRKjb2Gu');
+
+  var checkoutButton = document.getElementById('checkout-button-plan_GFcJk1TCwkKaqF');
+  checkoutButton.addEventListener('click', function () {
+    stripe.redirectToCheckout({
+      items: [{plan: 'plan_GFcJk1TCwkKaqF', quantity: 1}],
+
+      successUrl: 'https://mwlsdotcom.github.io/payments/success.html',
+      cancelUrl: 'https://mwlsdotcom.github.io/payments/cancelled.html',
+    })
+    .then(function (result) {
+      if (result.error) {
+        var displayError = document.getElementById('error-message');
+        displayError.textContent = result.error.message;
+      }
+    });
+  });
+})();
+</script>
+
+<h4>Level 2</h4>
+
+<p>£4 per month</p>
+
+<ul>
+<li>Early access to new content</li>
+<li>Donor-only newsletter</li>
+<li>Donor-only voting for next free resource</li>
+<li>PDF or eBook copies of 2 selected articles per month</li>
+</ul>
+<h4>Level 3</h4>
+
+<p>£8 per month</p>
+
+<ul>
+<li>Early access to new content</li>
+<li>Donor-only newsletter</li>
+<li>Donor-only voting for next free resource</li>
+<li>PDF or eBook copies of 4 selected articles per month</li>
+<li>Access to online version of Managing the Training Process</li>
+<li>Subscribe for 3 months and get a free, hardback copy of Managing the Training Process</li>
+</ul>
+
+<hr>
+
+</article>
+
+</body>
+</html>
