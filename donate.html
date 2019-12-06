@@ -45,7 +45,7 @@
 <input type="hidden" name="ord" value=""/>
 <input type="submit" style="font-family:Verdana; font-size:12px; font-color:214A70; font-weight:bold; font-style:italic; -webkit-border-radius:8px;
     -moz-border-radius:8px; margin-top:20px; margin-bottom:5px; padding:5px; background: linear-gradient(#FFF6E5, #FFB542); border:1px solid black" value=" Donate "/>
-</form>
+</form><br/>
 
 <h3>Microdonations</h3>
 
@@ -64,14 +64,16 @@
 <li>Donor-only newsletter</li>
 </ul>
 
+<!-- Load Stripe.js on your website. -->
 <script src="https://js.stripe.com/v3"></script>
 
+<!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
 <button
   style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
   id="checkout-button-plan_GFcJk1TCwkKaqF"
-  role="link"</p>
-
-  Subscribe
+  role="link"
+>
+  Checkout
 </button>
 
 <div id="error-message"></div>
@@ -82,7 +84,7 @@
 
   var checkoutButton = document.getElementById('checkout-button-plan_GFcJk1TCwkKaqF');
   checkoutButton.addEventListener('click', function () {
-    stripe.redirectToCheckout({
+     stripe.redirectToCheckout({
       items: [{plan: 'plan_GFcJk1TCwkKaqF', quantity: 1}],
 
       successUrl: 'https://mwlsdotcom.github.io/payments/success.html',
@@ -96,7 +98,7 @@
     });
   });
 })();
-</script>
+</script><br/>
 
 <h4>Level 2</h4>
 
