@@ -84,14 +84,23 @@
 
   var checkoutButton = document.getElementById('checkout-button-plan_GFcJk1TCwkKaqF');
   checkoutButton.addEventListener('click', function () {
-     stripe.redirectToCheckout({
+    // When the customer clicks on the button, redirect
+    // them to Checkout.
+    stripe.redirectToCheckout({
       items: [{plan: 'plan_GFcJk1TCwkKaqF', quantity: 1}],
 
+      // Do not rely on the redirect to the successUrl for fulfilling
+      // purchases, customers may not always reach the success_url after
+      // a successful payment.
+      // Instead use one of the strategies described in
+      // https://stripe.com/docs/payments/checkout/fulfillment
       successUrl: 'https://mwlsdotcom.github.io/payments/success.html',
       cancelUrl: 'https://mwlsdotcom.github.io/payments/cancelled.html',
     })
     .then(function (result) {
       if (result.error) {
+        // If `redirectToCheckout` fails due to a browser or network
+        // error, display the localized error message to your customer.
         var displayError = document.getElementById('error-message');
         displayError.textContent = result.error.message;
       }
