@@ -1,0 +1,1 @@
+document.write('LearningPages.eu is designed and maintained by <a href=https://mwls.com>Mike Wills Learning Services</a>')
